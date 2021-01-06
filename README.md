@@ -21,7 +21,7 @@ Part 2: Success Probability Dependence On Grover's Iterates
 
 ## Main Plots and Conclusion
 
-<div style="text-align:center"><img src="res1.png" width="600" /></div>
-<div style="text-align:center"><img src="res2.png" width="600" /></div>
-<div style="text-align:center"><img src="main_eq.png" width="600" /></div>
+<div style="text-align:center"><img src="res1.png" /></div>
+<div style="text-align:center"><img src="res2.png" /></div>
+<div style="text-align:center"><img src="main_eq.png" /></div>
 
