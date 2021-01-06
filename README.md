@@ -1,7 +1,6 @@
 # Grover's Algorithm Implementation and Success Probability Dependence On Grover's Iterates
 ### Outline
 <br>
-<strong>
 Part 1: General Grover's Algorithm
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;1.1. Initialization
@@ -19,4 +18,20 @@ Part 2: Success Probability Dependence On Grover's Iterates
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;2.3. The Conclusive Equation
 <br>
+
+## Plots and Result
+
+<div style="text-align:center"><img src="res1.png" width="400" /></div>
+<div style="text-align:center"><img src="res2.png" width="400" /></div>
+$$
+\boxed{\boxed{ P_{success}(N,M,t) \approx  sin^2\left( 2\sqrt{\frac{M}{N}} \;t \right)}}
+$$
+<strong>
+$P_{success}$: The probability of getting the right result.
+<br>  
+N: Length of the list.
+<br>
+M: Number of winners/solutions.
+<br>
+t: Number of Grover's iterates. (# amplitude amplifications).
 <strong/>
